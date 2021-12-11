@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/git-profile-viewer/static/css/main.27f0a5d8.chunk.css",
+    "main.js": "/git-profile-viewer/static/js/main.1c9d541a.chunk.js",
+    "main.js.map": "/git-profile-viewer/static/js/main.1c9d541a.chunk.js.map",
+    "runtime-main.js": "/git-profile-viewer/static/js/runtime-main.fab7c108.js",
+    "runtime-main.js.map": "/git-profile-viewer/static/js/runtime-main.fab7c108.js.map",
+    "static/css/2.216ff909.chunk.css": "/git-profile-viewer/static/css/2.216ff909.chunk.css",
+    "static/js/2.225bea50.chunk.js": "/git-profile-viewer/static/js/2.225bea50.chunk.js",
+    "static/js/2.225bea50.chunk.js.map": "/git-profile-viewer/static/js/2.225bea50.chunk.js.map",
+    "index.html": "/git-profile-viewer/index.html",
+    "static/css/2.216ff909.chunk.css.map": "/git-profile-viewer/static/css/2.216ff909.chunk.css.map",
+    "static/css/main.27f0a5d8.chunk.css.map": "/git-profile-viewer/static/css/main.27f0a5d8.chunk.css.map",
+    "static/js/2.225bea50.chunk.js.LICENSE.txt": "/git-profile-viewer/static/js/2.225bea50.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/git-profile-viewer/static/media/search.40c10caa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fab7c108.js",
+    "static/css/2.216ff909.chunk.css",
+    "static/js/2.225bea50.chunk.js",
+    "static/css/main.27f0a5d8.chunk.css",
+    "static/js/main.1c9d541a.chunk.js"
+  ]
+}
