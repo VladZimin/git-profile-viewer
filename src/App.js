@@ -26,6 +26,7 @@ const App = () => {
     } catch (e) {
       alert('Пользователь не найден')
       console.log(e.message)
+      setUserInfo({})
     }
     setIsLoading(false)
     setInputValue('')
